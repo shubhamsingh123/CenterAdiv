@@ -1,0 +1,12 @@
+.container{
+    width: 1200px;
+    height: 500px;
+    margin : 0 auto;
+    background-color: red;
+    display: grid;
+    /* Here with the help of place-items features in grid we can align center the item   */
+    place-items: center; 
+
+}
+
+
